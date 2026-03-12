@@ -13,10 +13,9 @@ Technical Domain Expertise
 
 Daily High-Performance Operations
 At Benchling and Cradle, precision is everything. My 9-to-5 mirrors a professional engineering environment:
-* 09:00 - 10:00 | Technical Sync & Architecture Review: We begin with a stand-up, analyzing architectural trade-offs. Why use a NAT Gateway over a Proxy? How do we secure S3 buckets containing sensitive R&D data?
-* 10:00 - 13:00 | Deep-Dive Engineering: Intense sessions on core AWS services. Recent focuses include Auto Scaling for fluctuating workloads and RDS for structured scientific data management.
+* 09:00 - 10:30 | Technical Sync & Architecture Review: We begin with a stand-up, analyzing architectural trade-offs. Why use a NAT Gateway over a Proxy? How do we secure S3 buckets containing sensitive R&D data?
+* 10:00 - 12:00 | Deep-Dive Engineering: Intense sessions on core AWS services. Recent focuses include Auto Scaling for fluctuating workloads and RDS for structured scientific data management.
 * 13:00 - 16:00 | Hands-On "Sandboxing" & Labs: I spend the afternoon in the AWS Console and CLI. I don't just "follow tutorials"—I build, break, and fix. I treat every lab like a production environment where uptime and security are the only metrics that matter.
-* 16:00 - 17:00 | Documentation & Peer Review: Clear communication is a core value at Benchling. I spend this hour documenting my technical workflows and performing peer reviews on Python scripts to ensure code quality and readability.
 
 Featured Cloud Projects
 * [Project 1 Name]: Secure Three-Tier Web Architecture
