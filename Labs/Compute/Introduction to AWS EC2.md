@@ -8,3 +8,4 @@ Topics covered
 - Monitor Your EC2 instance
 - Modify the security group that your web server is using to allow HTTP access
 
+Screenshot 2026-03-15 at 11.13.51.png
