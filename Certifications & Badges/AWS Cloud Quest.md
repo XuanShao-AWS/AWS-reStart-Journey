@@ -1,4 +1,4 @@
-## AWS Cloud Quest: Cloud Practitioner
+## AWS Cloud Quest: Cloud Practitioner - Week 0
 a role-based learning experience designed to help you start your cloud career or transition from a non-cloud role. 
 
 ### Key Features
