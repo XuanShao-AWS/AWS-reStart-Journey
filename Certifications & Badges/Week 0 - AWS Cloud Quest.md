@@ -10,40 +10,40 @@ a role-based learning experience designed to help you start your cloud career or
 
 ## Objectives
 
-&nbsp;&nbsp;&nbsp;&nbsp;Build real-world solutions  
-&nbsp;&nbsp;&nbsp;&nbsp;Gain hands-on experience with AWS services  
-&nbsp;&nbsp;&nbsp;&nbsp;Learn fundamental cloud concepts  
-&nbsp;&nbsp;&nbsp;&nbsp;Prepare for AWS certification
+- Build real-world solutions  
+- Gain hands-on experience with AWS services  
+- Learn fundamental cloud concepts  
+- Prepare for AWS certification
 
 ---
 
 ## AWS Services
 
-&nbsp;&nbsp;&nbsp;&nbsp;Amazon EC2 Auto Scaling  
-&nbsp;&nbsp;&nbsp;&nbsp;Amazon CloudWatch  
-&nbsp;&nbsp;&nbsp;&nbsp;Amazon DynamoDB  
-&nbsp;&nbsp;&nbsp;&nbsp;Amazon Elastic Compute Cloud  
-&nbsp;&nbsp;&nbsp;&nbsp;Amazon Elastic File System  
-&nbsp;&nbsp;&nbsp;&nbsp;Elastic Load Balancing  
-&nbsp;&nbsp;&nbsp;&nbsp;AWS Identity and Access Management  
-&nbsp;&nbsp;&nbsp;&nbsp;Amazon Relational Database Service  
-&nbsp;&nbsp;&nbsp;&nbsp;Amazon Simple Storage Service  
-&nbsp;&nbsp;&nbsp;&nbsp;Amazon VPC
+- Amazon EC2 Auto Scaling  
+- Amazon CloudWatch  
+- Amazon DynamoDB  
+- Amazon Elastic Compute Cloud  
+- Amazon Elastic File System  
+- Elastic Load Balancing  
+- AWS Identity and Access Management  
+- Amazon Relational Database Service  
+- Amazon Simple Storage Service  
+- Amazon VPC
 
 ### Outline
 
-&nbsp;&nbsp;&nbsp;&nbsp;**1.** Cloud Computing Essentials  
-&nbsp;&nbsp;&nbsp;&nbsp;**2.** Cloud First Steps  
-&nbsp;&nbsp;&nbsp;&nbsp;**3.** Computing Solutions  
-&nbsp;&nbsp;&nbsp;&nbsp;**4.** Networking Concepts  
-&nbsp;&nbsp;&nbsp;&nbsp;**5.** Cloud Economics  
-&nbsp;&nbsp;&nbsp;&nbsp;**6.** Databases in Practice  
-&nbsp;&nbsp;&nbsp;&nbsp;**7.** Connecting VPCs  
-&nbsp;&nbsp;&nbsp;&nbsp;**8.** First NoSQL Database  
-&nbsp;&nbsp;&nbsp;&nbsp;**9.** File Systems in the Cloud  
-&nbsp;&nbsp;&nbsp;&nbsp;**10.** Core Security Concepts  
-&nbsp;&nbsp;&nbsp;&nbsp;**11.** Auto-Healing and Scaling Applications  
-&nbsp;&nbsp;&nbsp;&nbsp;**12.** Highly Available Web Applications  
+**1.** Cloud Computing Essentials  
+**2.** Cloud First Steps  
+**3.** Computing Solutions  
+**4.** Networking Concepts  
+**5.** Cloud Economics  
+**6.** Databases in Practice  
+**7.** Connecting VPCs  
+**8.** First NoSQL Database  
+**9.** File Systems in the Cloud  
+**10.** Core Security Concepts  
+**11.** Auto-Healing and Scaling Applications  
+**12.** Highly Available Web Applications  
 
 
 ### Earn a badge
