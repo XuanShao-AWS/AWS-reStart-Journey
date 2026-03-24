@@ -12,6 +12,21 @@ Technical Domain Expertise
 * Networking: Designing robust VPC architectures with a focus on data security and low-latency connectivity.
 * Observability: Using CloudWatch and CloudTrail to monitor system health and audit resource changes.
 
+Cloud Practitioner Learning Agenda:
+
+- Week 0: AWS Cloud Quest 
+- Week 1: AWS Cloud Foundation
+- Week 2: AWS Compute Services
+- Week 3: AWS Storage Services
+- Week 4: AWS Database and Analytics services
+- Week 5: AWS Networking and Content Delivery services
+- Week 6: AWS Security services
+- Week 7: AWS Management Tools
+- Week 8: AWS Application & Migration Services
+- Week 9: AWS Developer Tools and Machine Learning
+- Week 10: Exam Preparation
+
+
 Daily High-Performance Operations
 My 9-to-15 mirrors a professional engineering environment:
 * 09:00 - 10:30 | Technical Sync & Architecture Review: We begin with a stand-up, analyzing architectural trade-offs. Why use a NAT Gateway over a Proxy? How do we secure S3 buckets containing sensitive R&D data?
@@ -31,7 +46,7 @@ Certifications & Professional Values
 
 Let's Connect!
 I am ready to bring my cloud skills to a team that is changing the world through science and software.
-    * LinkedIn: www.Linkedin.com/in/shaoxuan
-    * GitHub: www.github.com/xuanshao1980-aws
-    * Email: xuanshao@icloud.com
+- LinkedIn: www.Linkedin.com/in/shaoxuan
+- GitHub: www.github.com/xuanshao-aws
+- Email: xuanshao@icloud.com
 
