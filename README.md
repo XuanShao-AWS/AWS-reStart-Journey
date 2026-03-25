@@ -49,6 +49,6 @@ My 9-to-15 mirrors a professional engineering environment:
 
 I am ready to bring my cloud skills to a team that is changing the world through science and software.
 - LinkedIn: www.Linkedin.com/in/shaoxuan
-- GitHub: www.github.com/xuanshao-aws
+- GitHub: www.github.com/XuanShao-AWS
 - Email: xuanshao@icloud.com
 
