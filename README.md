@@ -1,17 +1,27 @@
 # AWS re/Start: 12-Week Cloud Engineering Immersion
 
 ## Targeting: 
-Cloud Support & DevOps Operations 
 
 I am currently a learner in the AWS re/Start program, a full-time technical bootcamp focusing on professional cloud operations. 
 My goal is to bridge the gap between complex software needs and scalable, secure AWS infrastructure—ideal for the high-compliance, data-heavy environments.
 
-## Technical Domain Expertise
-* Infrastructure as Code (IaC): Automating environment setups to ensure consistency across dev/test/prod.
-* Security & Compliance: Implementing IAM Least Privilege, VPC isolation, and encryption to meet SOC 2standards.
-* Linux & Scripting: Proficiency in Bash and Python for automating manual workflows and log analysis.
-* Networking: Designing robust VPC architectures with a focus on data security and low-latency connectivity.
-* Observability: Using CloudWatch and CloudTrail to monitor system health and audit resource changes.
+## AWS knowledge 
+
+* Explain the value of the AWS Cloud.
+* Understand and explain the AWS shared responsibility model.
+* Understand the AWS Well-Architected Framework.
+* Understand security best practices.
+* Understand AWS Cloud costs, economics, and billing practices.
+* Describe and position the core AWS services, including compute, network, database, and storage services.
+* Identify AWS services for common use cases.
+
+## Technical Domain Expertise 
+
+- AWS Cloud concepts -  Domain 1: Cloud Concepts (24% of scored content)
+- Security and compliance in the AWS Cloud - Domain 2: Security and Compliance (30% of scored content)
+- Core AWS services - Domain 3: Cloud Technology and Services (34% of scored content)
+- Economics of the AWS Cloud - Domain 4: Billing, Pricing, and Support (12% of scored content)
+
 
 ## Cloud Practitioner Learning Agenda:
 
