@@ -38,18 +38,59 @@ My goal is to bridge the gap between complex software needs and scalable, secure
 - Week 10: Exam Preparation
 
 
-## Daily High-Performance Operations
-My 9-to-15 mirrors a professional engineering environment:
-* 09:00 - 10:30 | Technical Sync & Architecture Review: We begin with a stand-up, analyzing architectural trade-offs. Why use a NAT Gateway over a Proxy? How do we secure S3 buckets containing sensitive R&D data?
-* 10:40 - 12:00 | Deep-Dive Engineering: Intense sessions on core AWS services. Recent focuses include Auto Scaling for fluctuating workloads and RDS for structured scientific data management.
-* 13:00 - 15:00 | Hands-On "Sandboxing" & Labs: I spend the afternoon in the AWS Console and CLI. I don't just "follow tutorials"—I build, break, and fix. I treat every lab like a production environment where uptime and security are the only metrics that matter.
+## Week 2 - AWS compute services
+
+- Recognizing the appropriate use of various Amazon EC2 instance types (for example, compute optimized, storage optimized)
+- Recognizing the appropriate use of various container options (for example, Amazon Elastic Container Service [Amazon ECS], Amazon Elastic Kubernetes Service [Amazon EKS])
+- Recognizing the appropriate use of various serverless compute options (for example, AWS Fargate, AWS Lambda)
+- Recognizing that auto scaling provides elasticity
+- Identifying the purposes of load balancers
+
+## Week 3 - AWS storage services
+- Identifying the uses for object storage
+- Recognizing the differences in Amazon S3 storage classes
+- Identifying block storage solutions (for example, Amazon Elastic Block Store [Amazon EBS], instance store)
+- Identifying file services (for example, Amazon Elastic File System [Amazon EFS], Amazon FSx)
+- Identifying cached file systems (for example, AWS Storage Gateway)
+- Understanding use cases for lifecycle policies
+- Understanding use cases for AWS Backup
+
+## Week 4 - AWS database services and analytics services
+
+- Deciding when to use EC2 hosted databases or AWS managed databases
+- Identifying relational databases (for example, Amazon RDS, Amazon Aurora)
+- Identifying NoSQL databases (for example, Amazon DynamoDB)
+- Identifying memory-based databases (for example, Amazon ElastiCache)
+- Identifying database migration tools (for example AWS Database Migration Service [AWS DMS], AWS Schema Conversion Tool [AWS SCT])
+- Identifying the services for data analytics (for example, Amazon Athena, Amazon Kinesis, AWS Glue, Amazon QuickSight)
+
+## Week 5 - AWS network services.
+
+- Identifying the components of a VPC (for example, subnets, gateways)
+- Understanding security in a VPC (for example, network ACLs, security groups, Amazon Inspector)
+- Understanding the purpose of Amazon Route 53
+- Identifying network connectivity options to AWS (for example AWS VPN, AWS Direct Connect)
+
+## Week 8 other in-scope AWS service categories.
+
+- Application integration services of Amazon EventBridge, Amazon Simple Notification Service (Amazon SNS), and Amazon Simple Queue Service (Amazon SQS)
+- Business application services of Amazon Connect and Amazon Simple Email Service (Amazon SES)
+- Customer enablement services (for example, AWS Support)
+- Developer tool services and capabilities (for example, AWS CodeBuild, AWS CodePipeline, and AWS X-Ray)
+- End-user computing services of Amazon AppStream 2.0, Amazon WorkSpaces, and Amazon WorkSpaces Secure Browser
+- Frontend web and mobile services of AWS Amplify and AWS AppSync
+- IoT services (for example, AWS IoT Core)
+
+
+## Week 9 - AWS artificial intelligence and machine learning (AI/ML) services
+- Understanding AI/ML services and the tasks that they accomplish (for example, Amazon SageMaker AI, Amazon Lex, Amazon Kendra)
+
+
 
 ## Featured Cloud Projects
-* [Project 1 Name]: Secure Three-Tier Web Architecture
-    * Designed a resilient VPC for a simulated lab-data application.
-    * Implemented Multi-AZ RDS for data durability and Load Balancers to handle traffic spikes.
-* [Project 2 Name]: Python-Driven Security Automation
-    * Wrote a Python/Boto3 script to automatically audit and disable unused IAM access keys, directly supporting security compliance goals.
+* Week 3 [Project 1 The Quiet Kettle]: Host a Static Web in S3
+* Week 5 [Project 2 Name]: Networking
+* Week 10 [Project 3 Name]: Python-Driven Security Automation
 
 ## Certifications & Professional Values
 * In Progress: AWS Certified Cloud Practitioner (Exam Date: [Date])
